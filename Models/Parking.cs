@@ -16,6 +16,11 @@ namespace DesaafioEstacionamentoJean.Models
             this.initialPrice = initialPrice;
             this.hoursPrice = hoursPrice;
         }
-        
+        public void AddVehicle()
+        {
+            Console.Write("Digite a placa do veículo: ");
+            vehicles.Add(Console.ReadLine());
+            Console.WriteLine("Veículo adicionado com sucesso!");
+        }
     }
 }
