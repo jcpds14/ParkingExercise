@@ -49,6 +49,25 @@ namespace DesaafioEstacionamentoJean.Models
                 );
             }
         }
-        
+        public void ListOfVehicles()
+        {
+            if (vehicles.Any())
+            {
+                Console.WriteLine("Os veículos estacionados são:");
+
+                int vehicleCounter = 0;
+
+                foreach(string vehicle in vehicles)
+                {
+                    Console.WriteLine($"Veículos {vehicleCounter}: {vehicle}");
+
+                    vehicleCounter++;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Não há veículos no estacionamento.");
+            }
+        }
     }
 }
