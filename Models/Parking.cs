@@ -20,7 +20,35 @@ namespace DesaafioEstacionamentoJean.Models
         {
             Console.Write("Digite a placa do veículo: ");
             vehicles.Add(Console.ReadLine());
-            Console.WriteLine("Veículo adicionado com sucesso!");
+            Console.WriteLine("\nVeículo adicionado com sucesso!\n");
         }
+        public void RemoveVehicle()
+        {
+            Console.Write("Digite a placa do veículo que está saindo: ");
+
+            string vehiclePlate = Console.ReadLine();
+
+            if (vehicles.Any(x => x.ToUpper() == vehiclePlate.ToUpper()))
+            {
+                Console.WriteLine("Quantas horas este veículo permaneceu no estacionamento?");
+
+                int hoursInParking = 0;
+                decimal fullPrice = 0;
+
+                hoursInParking = int.Parse(Console.ReadLine());
+                fullPrice = initialPrice + hoursPrice * hoursInParking;
+
+                vehicles.Remove(vehiclePlate);
+
+                Console.WriteLine($"Veículo removido com sucesso, preço total: {fullPrice}");
+            }
+            else
+            {
+                Console.Write(
+                    "Desculpe, este veículo não está estaacionado aqui. Verifique se digitou a placa corretamente"
+                );
+            }
+        }
+        
     }
 }
