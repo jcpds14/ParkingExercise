@@ -1,0 +1,15 @@
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\bin\Debug\net6.0\DesaafioEstacionamentoJean.exe
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\bin\Debug\net6.0\DesaafioEstacionamentoJean.deps.json
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\bin\Debug\net6.0\DesaafioEstacionamentoJean.runtimeconfig.json
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\bin\Debug\net6.0\DesaafioEstacionamentoJean.dll
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\bin\Debug\net6.0\DesaafioEstacionamentoJean.pdb
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.csproj.AssemblyReference.cache
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.AssemblyInfoInputs.cache
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.AssemblyInfo.cs
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.csproj.CoreCompileInputs.cache
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.dll
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\refint\DesaafioEstacionamentoJean.dll
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.pdb
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\DesaafioEstacionamentoJean.genruntimeconfig.cache
+C:\Users\JJ\Jean\jEAN\workspace\DIO\dotnet\Desafio Estacionamento\DesaafioEstacionamentoJean\obj\Debug\net6.0\ref\DesaafioEstacionamentoJean.dll
